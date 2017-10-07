@@ -1,0 +1,8 @@
+
+1. Open "msconfig" in Search Menu Windows
+
+2. Select the option "Inicializar"
+
+3. Select "Desabilitar" programs
+
+The next starter is more quick!
