@@ -1,0 +1,6 @@
+
+For see starter's scripts, you need make:
+
+1. CTRL+R
+
+2. Write "shell:startup"
